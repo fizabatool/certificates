@@ -1,0 +1,1 @@
+In this certificate i learned how to use keybord shortcuts for financial modelling and how we can speed speed up our analysis using keybord instead of mouse. Important formulas were tought for analysis for e.g sumproduct, yearfrac, roundoffs etc. keybord shortkuts for formatting the model and tracing precedents and dependets.
